@@ -1,2 +1,16 @@
-# i_am_rich App
- A Flutter Clone App For Armin's I Am Rich App.So in the early days of App Store a guy called Armin decided to make an app that does absolutely nothing and just shows a picture of a red ruby and decided to sell it at the maximum price that app store would allow and pitched it as an art and lifestyle app. For rich people to display how rich they are.
+# i_am_rich
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
