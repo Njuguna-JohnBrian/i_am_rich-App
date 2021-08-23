@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [A short anology of the application](https://flutter.dev/docs/get-started/codelab)
+- [A short anology of the application](https://njugunajb.dev/i-am-rich-clone-app-in-flutter)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 - [Icon generator: Useful Icon generator for IOS nad Android](https://appicon.co/)
